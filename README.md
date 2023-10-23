@@ -14,7 +14,7 @@ The application for recipe finder is to give you suggestions and recommendations
 
 ## Diagram of program flow of the recipe finder app
 here is it
-(/image/Recipefinder-flow.png)
+![Recipe flow chart](/image/Recipefinder-flow.png)
 
 ## Roadmap and future enhancements
 - Tracking and Analytics: Implementing analytics tools to track user engagement, visitor demographics, and page views to gain insights into how users interact with the portfolio.
